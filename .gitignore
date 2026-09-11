@@ -220,3 +220,7 @@ __marimo__/
 bin/*
 model_output/*
 head_contours.png
+idomain_preview.png
+idomain_preview.png/*
+gis_data/*
+idomain_array.npy
